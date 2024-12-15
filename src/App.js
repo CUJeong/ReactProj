@@ -26,7 +26,7 @@ import { Link, NavLink } from 'react-router-dom';
 
 function App() {
 
-  console.log("App 컴포넌트 실행");
+  console.log("App 컴포넌트 실행"); 
 
   return (
     <div className="App">
